@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is my personal blog page where i will share how to question based on my working experience. Here and there 
   I will explain how to achieve the problem in systematic ways. I will try to do customise solution which you will not get from 
   framework out of the box.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  hteinlinaung1423
