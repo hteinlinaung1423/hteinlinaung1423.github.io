@@ -10,11 +10,17 @@ You will find most of my freelance projects in [My Projects][my-projects].
 I do mainly these technologies.
 
 `Web Technologies` : Spring Boot (Java), Asp.Net Core (C#)
+
 `Mobile Technologies` : Xamarin, Android
+
 `FrontEnd Technologies` : React
+
 `Machine Learning` : Python
+
 `No Code Low Code Tool` : Power Platform (Microsoft), Sharepoint
+
 `Testing Tool` : Katalon
+
 `Cloud Platforms` : Azure, AWS, GCP
 
 [my-projects]: https://apistore.azurewebsites.net
