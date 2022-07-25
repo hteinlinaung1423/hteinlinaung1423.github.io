@@ -29,7 +29,7 @@ twitter_username: ""
 github_username:  hteinlinaung1423
 
 # Build settings
-theme: minima
+#theme: minima
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
   - jekyll-feed
