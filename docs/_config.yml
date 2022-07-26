@@ -28,7 +28,7 @@ url: "https://hteinlinaung1423.github.io" # the base hostname & protocol for you
 twitter_username: ""
 github_username:  hteinlinaung1423
 disqus:
-   shortname: henrylin-1.disqus.com
+   shortname: henrylin-1-disqus-com
 
 # Build settings
 theme: minima
