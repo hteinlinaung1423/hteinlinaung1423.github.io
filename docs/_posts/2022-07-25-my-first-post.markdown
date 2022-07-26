@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Welcome to My Blog!"
 date:   2022-07-25 02:28:35 +0800
 categories: blog new
